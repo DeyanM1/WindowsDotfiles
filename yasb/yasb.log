@@ -1,0 +1,9 @@
+2026-03-04 14:22:17,034 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-04 14:22:17,035 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-04 14:22:17,035 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-04 14:22:17,057 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-04 14:22:17,057 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-04 14:22:17,097 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-04 14:22:17,097 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-04 14:22:17,397 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-04 14:22:17,988 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
