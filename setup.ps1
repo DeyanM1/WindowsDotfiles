@@ -5,6 +5,16 @@ New-Item -ItemType Junction `
   -Path "$home\.config\yasb" `
   -Target "$dfile\yasb" -Force
 
+
+# Komorebi
+New-Item -ItemType Junction `
+  -Path "$home\.config\komorebi" `
+  -Target "$dfile\komorebi" -Force
+  
+# Raycast
+New-Item -ItemType Junction `
+  -Path "$home\.config\raycast-x" `
+  -Target "$dfile\raycast-x" -Force
   
 # Windows Terminal
 New-Item -ItemType SymbolicLink `

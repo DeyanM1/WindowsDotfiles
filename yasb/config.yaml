@@ -31,13 +31,16 @@ bars:
       right: 4
     widgets:
       left:
+        - "komorebi_control"
         - "systray"
         - "battery"
         - "wifi"
         - "brightness"
         - "cpu"
         - "memory"
-      center: ["taskbar"]
+        - "komorebi_workspaces"
+      center: 
+        - "taskbar"
       right:
         - "weather"
         - "volume"
@@ -273,77 +276,6 @@ widgets:
       callbacks:
         on_left: "toggle_menu"
         on_right: "do_nothing"
-      container_padding:
-        top: 0
-        left: 0
-        bottom: 0
-        right: 0
-      label_shadow:
-        enabled: true
-        color: "black"
-        radius: 5
-        offset: [0, 0]
-
-  komorebi_active_layout:
-    type: "komorebi.active_layout.ActiveLayoutWidget"
-    options:
-      hide_if_offline: true
-      label: "{icon}"
-      layouts:
-        - "bsp"
-        - "columns"
-        - "rows"
-        - "grid"
-        - "scrolling"
-        - "vertical_stack"
-        - "horizontal_stack"
-        - "ultrawide_vertical_stack"
-        - "right_main_vertical_stack"
-      layout_icons:
-        bsp: "\uebeb"
-        columns: "\uebf7"
-        rows: "\uec01"
-        grid: "\udb81\udf58"
-        scrolling: "\uebf7"
-        vertical_stack: "\uebee"
-        horizontal_stack: "\uebf0"
-        ultrawide_vertical_stack: "\uebee"
-        right_main_vertical_stack: "\uebf1"
-        monocle: "\uf06f"
-        maximized: "\uf06f"
-        floating: "\uf2d2"
-        paused: "\udb83\udf89"
-        tiling: "\udb81\ude40"
-      callbacks:
-        on_left: "toggle_layout_menu"
-        on_middle: "toggle_tiling"
-        on_right: "next_layout"
-      layout_menu:
-        blur: true
-        round_corners: false
-        alignment: "left"
-        direction: "down"
-        offset_top: true
-        show_layout_icons: true
-      container_padding:
-        top: 0
-        left: 0
-        bottom: 0
-        right: 0
-      label_shadow:
-        enabled: true
-        color: "black"
-        radius: 5
-        offset: [0, 0]
-
-  komorebi_workspaces:
-    type: "komorebi.workspaces.WorkspaceWidget"
-    options:
-      label_offline: "<span>\ueb96</span>"
-      label_default_name: ""
-      label_zero_index: false
-      hide_empty_workspaces: true
-      hide_if_offline: true
       container_padding:
         top: 0
         left: 0
@@ -608,3 +540,62 @@ widgets:
         color: "black"
         radius: 5
         offset: [0, 0]
+
+
+  komorebi_control:
+      type: "komorebi.control.KomorebiControlWidget"
+      options:
+        label: "<span>\udb80\uddd9</span>"
+        icons:
+          start: "\uead3"
+          stop: "\uead7"
+          reload: "\uead2"
+        run_ahk: false
+        run_whkd: true
+        run_masir: true
+        config_path: "C:/Users/deyan/.config/komorebi/komorebi.json"
+        show_version: true
+        komorebi_menu:
+          blur: true
+          round_corners: true
+          round_corners_type: 'normal'
+          border_color: 'System'
+          alignment: 'left'
+          direction: 'down'
+          offset_top: 6
+          offset_left: 0
+        label_shadow:
+          enabled: true
+          color: "black"
+          radius: 3
+          offset: [ 1, 1 ]
+
+  komorebi_workspaces:
+      type: "komorebi.workspaces.WorkspaceWidget"
+      options:
+        label_offline: "Komorebi Offline"
+        label_workspace_btn: "\udb81\udc3d"
+        label_workspace_active_btn: "\udb81\udc3e"
+        label_workspace_populated_btn: "\udb81\udc3d"
+        label_default_name: ""
+        label_zero_index: false
+        hide_empty_workspaces: false
+        hide_if_offline: true
+        animation: true
+        toggle_workspace_layer:
+          enabled: false
+          tiling_label: "Tiling"
+          floating_label: "Floating"
+        app_icons: 
+          enabled_populated: false
+          enabled_active: false
+          size: 12
+          max_icons: 2
+          hide_label: false
+          hide_duplicates: false
+          hide_floating: false
+        btn_shadow:
+          enabled: true
+          color: "black"
+          radius: 3
+          offset: [ 1, 1 ]

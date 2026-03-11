@@ -1,0 +1,18 @@
+
+-- Install:
+winget install LGUG2Z.masir LGUG2Z.komorebi LGUG2Z.masir LGUG2Z.whkd
+
+- add this to powershell profile:
+$Env:KOMOREBI_CONFIG_HOME = 'C:\Users\deyan\.config\komorebi'
+
+-- Start:
+komorebic start --whkd --masir
+
+-- stop
+komorebic stop --whkd --masir
+
+-- enable Autostart:
+komorebic enable-autostart -c "C:/Users/deyan/.config/komorebi/komorebi.json" --whkd --masir
+
+-- disable Autostart:
+komorebic disable-autostart
