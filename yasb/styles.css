@@ -1156,6 +1156,7 @@
 
 /* Komorebi control*/
 .komorebi-control-widget .label {
+
     font-size: 14px;
     color: #cdd6f4;
     font-weight: 600;
@@ -1184,3 +1185,23 @@
     color: #6c7086;
 }
 
+
+
+.komorebi-workspaces {
+	background-color: rgba(24, 24, 37, 0.8);
+  border-radius: 6px;
+  margin: 0 2px 0 1px;
+  outline: none;
+  width: 40px;
+  min-width: 40px;
+  max-width: 40px;
+  padding-right: 4px;
+  padding-left: 2px;
+}
+.komorebi-workspaces .ws-btn {
+	border: none;
+	color: #cba6f7
+}
+.komorebi-workspaces .ws-btn.active {
+	color: #f38ba8;
+} 
