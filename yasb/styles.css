@@ -1155,6 +1155,21 @@
 
 
 /* Komorebi control*/
+.komorebi-control-widget {
+	background-color: rgba(24, 24, 37, 0.8);
+
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  
+  margin: 0 0 0 1px;
+  outline: none;
+  width: 20px;
+  min-width: 20px;
+  max-width: 20px;
+  padding-right: 0px;
+  padding-left: 2px;
+
+}
 .komorebi-control-widget .label {
 
     font-size: 14px;
@@ -1163,6 +1178,7 @@
 }
 .komorebi-control-menu {
     background-color: rgba(17, 17, 27, 0.2);
+	 
 }
 .komorebi-control-menu .button {
     color: rgba(162, 177, 199, 0.4);
@@ -1186,22 +1202,26 @@
 }
 
 
+/* komorebi - workspaces*/
 
 .komorebi-workspaces {
 	background-color: rgba(24, 24, 37, 0.8);
-  border-radius: 6px;
-  margin: 0 2px 0 1px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  
+  margin: 0 2px 0 0px;
   outline: none;
   width: 40px;
   min-width: 40px;
   max-width: 40px;
   padding-right: 4px;
-  padding-left: 2px;
+  padding-left: 0px;
 }
 .komorebi-workspaces .ws-btn {
 	border: none;
-	color: #cba6f7
+	color: #cba6f7;
 }
+
 .komorebi-workspaces .ws-btn.active {
 	color: #f38ba8;
 } 

@@ -2437,3 +2437,62 @@ expected escape sequence of 8 hexadecimal numbers, but found 's'
 2026-03-11 18:27:49,685 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 4130468
 2026-03-11 18:27:49,686 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 4130468
 2026-03-11 18:27:49,730 [INFO] [Dummy-8] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-11 18:27:50,060 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-11 18:27:50,061 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-11 18:27:50,061 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-11 18:27:50,088 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-11 18:27:50,089 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-11 18:27:50,129 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-11 18:27:50,129 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-11 18:27:50,362 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-11 18:27:50,938 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-11 18:27:51,104 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-11 18:27:51,107 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-11 18:27:51,107 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-11 18:27:51,109 [INFO] [Dummy-7] [root/event_listener.py:51]: Created named pipe yasb-a15e3aef-1d6f-11f1-90cb-a85e455e6409
+2026-03-11 18:27:51,110 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-11 18:27:51,110 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-11 18:27:51,239 [INFO] [Dummy-7] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-a15e3aef-1d6f-11f1-90cb-a85e455e6409
+2026-03-11 18:27:51,239 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-11 18:27:51,288 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-11 18:27:51,292 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-11 18:27:51,327 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-11 18:27:51,399 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 18:27:51.399640
+2026-03-11 18:27:51,529 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 2230324
+2026-03-11 18:27:51,533 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-11 18:27:51,535 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49357
+2026-03-11 18:28:36,390 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:28:47,701 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:29:39,552 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:30:10,455 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:30:15,708 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:30:38,105 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:30:42,226 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:30:55,014 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:31:00,349 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:31:04,907 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:31:07,585 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:31:10,269 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:31:13,633 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:31:17,916 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:31:54,195 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:32:01,811 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:32:10,964 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:32:15,442 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:32:45,691 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:33:08,105 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:33:59,205 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:34:05,298 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:350]: Scanning for WiFi networks...
+2026-03-11 18:34:23,214 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:35:39,062 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-11 18:35:39,093 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-11 18:35:39,208 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-11 18:35:39,208 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-11 18:35:39,212 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-11 18:35:39,336 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-11 18:35:39,336 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-11 18:35:39,336 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-11 18:35:39,337 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-11 18:35:39,338 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-11 18:35:39,339 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 2230324
+2026-03-11 18:35:39,339 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 2230324

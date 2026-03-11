@@ -31,13 +31,13 @@ bars:
       right: 4
     widgets:
       left:
-        - "komorebi_control"
         - "systray"
         - "battery"
         - "wifi"
         - "brightness"
         - "cpu"
         - "memory"
+        - "komorebi_control"
         - "komorebi_workspaces"
       center: 
         - "taskbar"
