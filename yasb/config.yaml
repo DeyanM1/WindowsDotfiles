@@ -37,9 +37,9 @@ bars:
         - "brightness"
         - "cpu"
         - "memory"
-        - "komorebi_control"
+        #- "komorebi_control"
         - "komorebi_workspaces"
-      center: 
+      center:
         - "taskbar"
       right:
         - "weather"
@@ -223,7 +223,7 @@ widgets:
       icon_size: 20
       tooltip: true
       show_only_visible: false
-      strict_filtering: true
+      strict_filtering: false
       monitor_exclusive: false
       animation:
         enabled: true
@@ -392,7 +392,7 @@ widgets:
       class_name: "systray"
       label_collapsed: "\ued59"
       label_expanded: "\ue77c"
-      show_unpinned: true
+      show_unpinned: false
       show_unpinned_button: true
       show_battery: false
       show_volume: false
@@ -541,61 +541,60 @@ widgets:
         radius: 5
         offset: [0, 0]
 
-
   komorebi_control:
-      type: "komorebi.control.KomorebiControlWidget"
-      options:
-        label: "<span>\udb80\uddd9</span>"
-        icons:
-          start: "\uead3"
-          stop: "\uead7"
-          reload: "\uead2"
-        run_ahk: false
-        run_whkd: true
-        run_masir: true
-        config_path: "C:/Users/deyan/.config/komorebi/komorebi.json"
-        show_version: true
-        komorebi_menu:
-          blur: true
-          round_corners: true
-          round_corners_type: 'normal'
-          border_color: 'System'
-          alignment: 'left'
-          direction: 'down'
-          offset_top: 6
-          offset_left: 0
-        label_shadow:
-          enabled: true
-          color: "black"
-          radius: 3
-          offset: [ 1, 1 ]
+    type: "komorebi.control.KomorebiControlWidget"
+    options:
+      label: "<span>\udb80\uddd9</span>"
+      icons:
+        start: "\uead3"
+        stop: "\uead7"
+        reload: "\uead2"
+      run_ahk: false
+      run_whkd: true
+      run_masir: true
+      config_path: "C:/Users/deyan/.config/komorebi/komorebi.json"
+      show_version: true
+      komorebi_menu:
+        blur: true
+        round_corners: true
+        round_corners_type: "normal"
+        border_color: "System"
+        alignment: "left"
+        direction: "down"
+        offset_top: 6
+        offset_left: 0
+      label_shadow:
+        enabled: true
+        color: "black"
+        radius: 3
+        offset: [1, 1]
 
   komorebi_workspaces:
-      type: "komorebi.workspaces.WorkspaceWidget"
-      options:
-        label_offline: "Komorebi Offline"
-        label_workspace_btn: "\udb81\udc3d"
-        label_workspace_active_btn: "\udb81\udc3e"
-        label_workspace_populated_btn: "\udb81\udc3d"
-        label_default_name: ""
-        label_zero_index: false
-        hide_empty_workspaces: false
-        hide_if_offline: true
-        animation: true
-        toggle_workspace_layer:
-          enabled: false
-          tiling_label: "Tiling"
-          floating_label: "Floating"
-        app_icons: 
-          enabled_populated: false
-          enabled_active: false
-          size: 12
-          max_icons: 2
-          hide_label: false
-          hide_duplicates: false
-          hide_floating: false
-        btn_shadow:
-          enabled: true
-          color: "black"
-          radius: 3
-          offset: [ 1, 1 ]
+    type: "komorebi.workspaces.WorkspaceWidget"
+    options:
+      label_offline: "Komorebi Offline"
+      label_workspace_btn: "\udb81\udc3d"
+      label_workspace_active_btn: "\udb81\udc3e"
+      label_workspace_populated_btn: "\udb81\udc3d"
+      label_default_name: ""
+      label_zero_index: false
+      hide_empty_workspaces: false
+      hide_if_offline: true
+      animation: true
+      toggle_workspace_layer:
+        enabled: false
+        tiling_label: "Tiling"
+        floating_label: "Floating"
+      app_icons:
+        enabled_populated: false
+        enabled_active: false
+        size: 12
+        max_icons: 2
+        hide_label: false
+        hide_duplicates: false
+        hide_floating: false
+      btn_shadow:
+        enabled: true
+        color: "black"
+        radius: 3
+        offset: [1, 1]

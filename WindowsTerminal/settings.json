@@ -12,20 +12,20 @@
             "keys": "ctrl+c"
         },
         {
-            "id": "Terminal.FindText",
-            "keys": "ctrl+shift+f"
-        },
-        {
             "id": "Terminal.PasteFromClipboard",
             "keys": "ctrl+v"
         },
         {
-            "id": null,
-            "keys": "ctrl+shift+p"
+            "id": "Terminal.FindText",
+            "keys": "ctrl+shift+f"
         },
         {
             "id": "Terminal.DuplicatePaneAuto",
             "keys": "alt+shift+d"
+        },
+        {
+            "id": null,
+            "keys": "ctrl+shift+p"
         },
         {
             "id": "Terminal.ToggleCommandPalette",
@@ -135,6 +135,36 @@
                 "hidden": true,
                 "name": "Developer PowerShell for VS 18",
                 "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{4f803878-4178-5625-bcac-480bc67e4bc8}",
+                "hidden": false,
+                "name": "FedoraLinux-43",
+                "source": "Microsoft.WSL"
+            },
+            {
+                "guid": "{eb9cc8ef-c5d3-5c5d-abd5-7f6f72cf37ee}",
+                "hidden": false,
+                "name": "FedoraLinux-43",
+                "source": "Microsoft.WSL"
+            },
+            {
+                "guid": "{392b8a39-cd9b-5ce6-ad5a-a9e11ca7e094}",
+                "hidden": false,
+                "name": "FedoraLinux-43",
+                "source": "Microsoft.WSL"
+            },
+            {
+                "guid": "{a1f2c192-b9e5-590a-b7f8-96b18b0515c3}",
+                "hidden": false,
+                "name": "Ubuntu-24.04",
+                "source": "Microsoft.WSL"
+            },
+            {
+                "guid": "{ba1d0dd1-08b8-5371-9af8-2e585ba36ec8}",
+                "hidden": false,
+                "name": "void",
+                "source": "Microsoft.WSL"
             }
         ]
     },

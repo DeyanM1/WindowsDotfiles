@@ -2496,3 +2496,805 @@ expected escape sequence of 8 hexadecimal numbers, but found 's'
 2026-03-11 18:35:39,338 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
 2026-03-11 18:35:39,339 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 2230324
 2026-03-11 18:35:39,339 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 2230324
+2026-03-11 18:35:39,726 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-11 18:35:39,727 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-11 18:35:39,727 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-11 18:35:39,758 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-11 18:35:39,758 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-11 18:35:39,799 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-11 18:35:39,799 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-11 18:35:40,032 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-11 18:35:40,602 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-11 18:35:40,761 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-11 18:35:40,765 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-11 18:35:40,765 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-11 18:35:40,766 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-b94e4f6a-1d70-11f1-a273-a85e455e6409
+2026-03-11 18:35:40,767 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-11 18:35:40,768 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-11 18:35:40,888 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-11 18:35:40,892 [INFO] [Dummy-6] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-b94e4f6a-1d70-11f1-a273-a85e455e6409
+2026-03-11 18:35:40,942 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-11 18:35:40,947 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-11 18:35:40,985 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-11 18:35:41,076 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 18:35:41.076288
+2026-03-11 18:35:41,189 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 2099524
+2026-03-11 18:35:41,192 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-11 18:35:41,194 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49357
+2026-03-11 18:35:54,890 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:35:58,807 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:36:20,354 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:36:39,848 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:37:01,940 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:37:03,878 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:37:07,036 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:37:10,400 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:37:13,397 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:37:20,593 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:38:40,967 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:01,244 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:16,031 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:21,809 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:24,529 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:29,180 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:38,297 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:40,212 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:49,478 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:54,110 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:39:58,874 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:40:04,324 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:40:30,556 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:40:33,296 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:40:35,286 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:40:52,203 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:40:53,986 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:41:00,341 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:41:10,609 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:41:22,326 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:41:24,245 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:41:38,989 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:41:46,285 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:41:49,769 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:41:53,495 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:41:55,424 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:42:00,216 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:42:22,850 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:42:59,448 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:01,447 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:04,032 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:06,730 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:22,124 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:30,382 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:32,481 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:35,107 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:40,901 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:47,164 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:43:49,787 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-11 18:45:40,053 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 18:45:40.053553
+2026-03-11 18:55:40,066 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 18:55:40.066871
+2026-03-11 19:05:40,065 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 19:05:40.065822
+2026-03-11 19:15:40,111 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 19:15:40.111417
+2026-03-11 19:25:40,073 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 19:25:40.073586
+2026-03-11 19:29:12,095 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,096 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,102 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,331 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,331 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,333 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,335 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,336 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,338 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,340 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,342 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,345 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,346 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,352 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,354 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,355 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,357 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,359 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,360 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,364 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,367 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,371 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,373 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,377 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,379 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,381 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,384 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,388 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,390 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,392 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,394 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,396 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,400 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,402 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,404 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,411 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,414 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,421 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,423 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,425 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,428 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,430 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,437 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,444 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,448 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,452 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,459 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,463 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,465 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,470 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,472 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,476 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,480 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,486 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,489 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,495 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,499 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,504 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,510 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,518 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,521 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,522 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,526 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,532 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,534 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,537 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,540 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,544 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,547 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,550 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,555 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,557 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,560 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,562 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,565 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,567 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,570 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,573 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,576 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,580 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,582 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,586 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,590 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,594 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,603 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,605 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,609 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,609 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,757 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,763 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,769 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,777 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,782 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,786 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,791 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,794 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,798 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,806 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,810 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,814 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:12,832 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,028 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,034 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,037 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,367 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,367 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,377 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,384 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,391 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,396 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,404 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,413 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,419 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,432 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,457 [DEBUG] [MainThread] [systray_widget/systray.py:413]: Is empty: True, force show: True
+2026-03-11 19:29:13,688 [DEBUG] [MainThread] [systray_widget/systray.py:417]: Is empty: False, force show: False
+2026-03-11 19:29:13,689 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-11 19:29:13,689 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-11 19:29:20,744 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-11 19:29:20,744 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-11 19:35:40,094 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 19:35:40.094284
+2026-03-11 19:45:40,077 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 19:45:40.077810
+2026-03-11 19:55:40,065 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 19:55:40.065718
+2026-03-11 20:05:40,091 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 20:05:40.091066
+2026-03-11 20:15:40,081 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 20:15:40.081212
+2026-03-11 20:25:40,084 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 20:25:40.084825
+2026-03-11 20:35:40,073 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 20:35:40.073117
+2026-03-11 20:39:31,393 [ERROR] [SystrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2026-03-11 20:45:40,086 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 20:45:40.086380
+2026-03-11 20:55:40,087 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 20:55:40.086945
+2026-03-11 21:05:40,078 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 21:05:40.078638
+2026-03-11 21:15:40,098 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 21:15:40.098485
+2026-03-11 21:25:40,085 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 21:25:40.085562
+2026-03-11 21:35:40,105 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 21:35:40.105696
+2026-03-11 21:45:40,065 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 21:45:40.065336
+2026-03-11 21:55:40,084 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 21:55:40.084393
+2026-03-11 21:55:40,442 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-11 21:57:02,060 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:350]: Scanning for WiFi networks...
+2026-03-11 21:57:07,905 [WARNING] [Dummy-6] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2026-03-11 21:57:07,905 [INFO] [Dummy-6] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-11 21:57:10,906 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-b94e4f6a-1d70-11f1-a273-a85e455e6409
+2026-03-11 21:57:11,045 [INFO] [Dummy-6] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-b94e4f6a-1d70-11f1-a273-a85e455e6409
+2026-03-11 22:01:13,290 [WARNING] [Dummy-6] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2026-03-11 22:01:13,291 [INFO] [Dummy-6] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-11 22:01:16,291 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-b94e4f6a-1d70-11f1-a273-a85e455e6409
+2026-03-11 22:01:16,431 [INFO] [Dummy-6] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-b94e4f6a-1d70-11f1-a273-a85e455e6409
+2026-03-11 22:05:40,128 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 22:05:40.128468
+2026-03-11 22:10:35,988 [WARNING] [Dummy-6] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2026-03-11 22:10:35,988 [INFO] [Dummy-6] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-11 22:10:38,989 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-b94e4f6a-1d70-11f1-a273-a85e455e6409
+2026-03-11 22:15:40,071 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 22:15:40.071533
+2026-03-11 22:25:40,078 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 22:25:40.078847
+2026-03-11 22:35:40,071 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 22:35:40.071287
+2026-03-11 22:45:40,066 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 22:45:40.066453
+2026-03-11 22:55:40,105 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 22:55:40.105206
+2026-03-11 23:05:40,074 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 23:05:40.074657
+2026-03-11 23:15:40,061 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 23:15:40.061946
+2026-03-11 23:25:40,088 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 23:25:40.088327
+2026-03-11 23:35:40,075 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 23:35:40.075346
+2026-03-11 23:45:40,107 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 23:45:40.107835
+2026-03-11 23:55:40,061 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-11 23:55:40.061526
+2026-03-12 00:05:40,065 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 00:05:40.065314
+2026-03-12 00:15:40,083 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 00:15:40.083310
+2026-03-12 00:24:51,129 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-12 00:24:51,129 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-12 00:24:51,132 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-12 00:24:51,135 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-12 00:24:51,136 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 00:24:51,137 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 2099524
+2026-03-12 14:47:48,241 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-12 14:47:48,242 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-12 14:47:48,242 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-12 14:47:48,366 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-12 14:47:48,368 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-12 14:47:48,434 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 14:47:48,434 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 14:47:48,993 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-12 14:47:50,013 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-12 14:47:50,053 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-12 14:47:50,055 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-12 14:47:50,055 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-12 14:47:50,055 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-0f573be9-1e1a-11f1-9615-a85e455e6409
+2026-03-12 14:47:50,058 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-12 14:47:50,058 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-12 14:47:50,136 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-12 14:47:50,203 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 14:47:50,217 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-12 14:47:50,273 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-12 14:47:50,365 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 14:47:50.365851
+2026-03-12 14:47:50,474 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 132098
+2026-03-12 14:47:50,482 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-12 14:47:50,484 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-12 14:48:10,664 [INFO] [Dummy-6] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-0f573be9-1e1a-11f1-9615-a85e455e6409
+2026-03-12 14:49:34,923 [WARNING] [Dummy-6] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2026-03-12 14:49:34,923 [INFO] [Dummy-6] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-12 14:49:37,924 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-0f573be9-1e1a-11f1-9615-a85e455e6409
+2026-03-12 14:57:49,037 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 14:57:49.037507
+2026-03-12 15:07:49,074 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 15:07:49.074232
+2026-03-12 15:17:49,123 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 15:17:49.123629
+2026-03-12 15:27:49,059 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 15:27:49.059825
+2026-03-12 15:37:49,049 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 15:37:49.049899
+2026-03-12 15:47:49,055 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 15:47:49.055208
+2026-03-12 15:57:49,048 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 15:57:49.048724
+2026-03-12 16:00:22,102 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-12 16:00:27,444 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-12 16:00:42,382 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-12 16:00:42,412 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-12 16:00:42,526 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-12 16:00:42,526 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-12 16:00:42,530 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-12 16:00:42,618 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-12 16:00:42,619 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-12 16:00:42,620 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-12 16:00:42,622 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-12 16:00:42,623 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 16:00:42,635 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 132098
+2026-03-12 16:00:42,635 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 132098
+2026-03-12 16:00:43,472 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-12 16:00:43,472 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-12 16:00:43,472 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-12 16:00:43,535 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-12 16:00:43,535 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-12 16:00:43,573 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 16:00:43,573 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 16:00:43,979 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-12 16:00:44,601 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-12 16:00:44,739 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-12 16:00:44,741 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-12 16:00:44,742 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-12 16:00:44,742 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - komorebi_control
+      hide_if_offline:
+      - Extra inputs are not permitted
+      
+2026-03-12 16:00:44,751 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-3edb87ed-1e24-11f1-af61-a85e455e6409
+2026-03-12 16:00:44,789 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-12 16:00:44,789 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-12 16:00:44,836 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-12 16:00:44,914 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 16:00:44,919 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-12 16:00:45,156 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-12 16:00:45,158 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 16:00:45.158247
+2026-03-12 16:00:45,358 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 197626
+2026-03-12 16:00:45,362 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-12 16:00:45,413 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-12 16:00:55,505 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-12 16:00:55,534 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-12 16:00:55,637 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-12 16:00:55,638 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-12 16:00:55,641 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-12 16:00:55,747 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-12 16:00:55,748 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-12 16:00:55,748 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-12 16:00:55,750 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-12 16:00:55,750 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 16:00:55,751 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 197626
+2026-03-12 16:00:55,752 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 197626
+2026-03-12 16:00:56,110 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-12 16:00:56,110 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-12 16:00:56,111 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-12 16:00:56,131 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-12 16:00:56,132 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-12 16:00:56,170 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 16:00:56,170 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 16:00:56,387 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-12 16:00:56,888 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-12 16:00:56,999 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-12 16:00:57,003 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-12 16:00:57,004 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-12 16:00:57,005 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-12 16:00:57,005 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-12 16:00:57,143 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-462a74b5-1e24-11f1-abec-a85e455e6409
+2026-03-12 16:00:57,177 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-12 16:00:57,220 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 16:00:57,227 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-12 16:00:57,260 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-12 16:00:57,326 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 16:00:57.326740
+2026-03-12 16:00:57,462 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 197600
+2026-03-12 16:00:57,466 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-12 16:00:57,468 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-12 16:01:22,975 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-12 16:01:23,005 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-12 16:01:23,109 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-12 16:01:23,109 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-12 16:01:23,113 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-12 16:01:23,194 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-12 16:01:23,194 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-12 16:01:23,195 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-12 16:01:23,197 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-12 16:01:23,198 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 16:01:23,199 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 197600
+2026-03-12 16:01:23,200 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 197600
+2026-03-12 16:01:23,570 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-12 16:01:23,570 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-12 16:01:23,571 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-12 16:01:23,593 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-12 16:01:23,594 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-12 16:01:23,633 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 16:01:23,633 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 16:01:23,856 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-12 16:01:24,345 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-12 16:01:24,472 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-12 16:01:24,475 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-12 16:01:24,476 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-12 16:01:24,477 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-12 16:01:24,477 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-12 16:01:24,478 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-568a62ec-1e24-11f1-a64a-a85e455e6409
+2026-03-12 16:01:24,679 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-12 16:01:24,722 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 16:01:24,726 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-12 16:01:24,757 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-12 16:01:24,824 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 16:01:24.824744
+2026-03-12 16:01:24,959 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 788210
+2026-03-12 16:01:24,963 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-12 16:01:24,965 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-12 16:01:57,288 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-12 16:01:57,317 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-12 16:01:57,428 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-12 16:01:57,428 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-12 16:01:57,431 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-12 16:01:57,512 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-12 16:01:57,512 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-12 16:01:57,513 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-12 16:01:57,514 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-12 16:01:57,514 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 16:01:57,515 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 788210
+2026-03-12 16:01:57,516 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 788210
+2026-03-12 16:01:57,889 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-12 16:01:57,889 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-12 16:01:57,890 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-12 16:01:57,913 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-12 16:01:57,914 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-12 16:01:57,952 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 16:01:57,952 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-12 16:01:58,163 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-12 16:01:58,662 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-12 16:01:58,782 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-12 16:01:58,784 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-12 16:01:58,785 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-12 16:01:58,786 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-12 16:01:58,786 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-12 16:01:58,787 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-6afd8e51-1e24-11f1-982c-a85e455e6409
+2026-03-12 16:01:58,965 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-12 16:01:59,006 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 16:01:59,008 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-12 16:01:59,041 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-12 16:01:59,099 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 16:01:59.099081
+2026-03-12 16:01:59,243 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 49743398
+2026-03-12 16:01:59,246 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-12 16:01:59,249 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-12 16:11:58,236 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 16:11:58.236402
+2026-03-12 16:21:58,218 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 16:21:58.217967
+2026-03-12 16:31:58,224 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 16:31:58.224022
+2026-03-12 16:41:58,213 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 16:41:58.213403
+2026-03-12 16:51:58,224 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 16:51:58.224488
+2026-03-12 17:01:58,227 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 17:01:58.227647
+2026-03-12 17:11:58,213 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 17:11:58.213187
+2026-03-12 17:21:58,204 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 17:21:58.204340
+2026-03-12 17:31:58,200 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 17:31:58.200899
+2026-03-12 17:41:58,195 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 17:41:58.195455
+2026-03-12 17:51:58,207 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 17:51:58.207163
+2026-03-12 18:01:58,244 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 18:01:58.244673
+2026-03-12 18:11:58,201 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 18:11:58.201472
+2026-03-12 18:21:58,250 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 18:21:58.250419
+2026-03-12 18:31:58,218 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 18:31:58.218593
+2026-03-12 18:41:58,221 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 18:41:58.221697
+2026-03-12 18:51:58,248 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 18:51:58.248100
+2026-03-12 19:01:58,245 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 19:01:58.245480
+2026-03-12 19:11:58,220 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 19:11:58.220550
+2026-03-12 19:21:58,236 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 19:21:58.236456
+2026-03-12 19:31:54,339 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 19:31:54.339006
+2026-03-12 19:41:54,326 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 19:41:54.326584
+2026-03-12 19:51:54,325 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 19:51:54.325347
+2026-03-12 20:01:54,329 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 20:01:54.329409
+2026-03-12 20:11:54,330 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 20:11:54.329971
+2026-03-12 20:21:54,311 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 20:21:54.311364
+2026-03-12 20:31:54,336 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 20:31:54.336540
+2026-03-12 20:41:54,309 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 20:41:54.309720
+2026-03-12 20:47:35,896 [ERROR] [SystrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2026-03-12 20:51:54,339 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 20:51:54.338963
+2026-03-12 21:01:54,314 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 21:01:54.314256
+2026-03-12 21:11:54,308 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 21:11:54.308066
+2026-03-12 21:21:54,325 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 21:21:54.325305
+2026-03-12 21:31:54,342 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 21:31:54.342711
+2026-03-12 21:41:54,351 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 21:41:54.351170
+2026-03-12 21:51:54,308 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 21:51:54.308142
+2026-03-12 22:01:54,340 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 22:01:54.340651
+2026-03-12 22:11:54,309 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 22:11:54.309303
+2026-03-12 22:21:54,306 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 22:21:54.305973
+2026-03-12 22:31:54,341 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 22:31:54.341859
+2026-03-12 22:41:54,322 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 22:41:54.322782
+2026-03-12 22:51:54,356 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 22:51:54.356316
+2026-03-12 23:01:54,354 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 23:01:54.354032
+2026-03-12 23:11:54,310 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 23:11:54.310698
+2026-03-12 23:21:54,308 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 23:21:54.308280
+2026-03-12 23:31:54,331 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-12 23:31:54.331697
+2026-03-12 23:36:11,384 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-12 23:36:11,384 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-12 23:36:11,385 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-12 23:36:11,394 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-12 23:36:11,395 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-12 23:36:11,397 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 49743398
+2026-03-13 19:44:35,107 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-13 19:44:35,108 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-13 19:44:35,109 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-13 19:44:35,234 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-13 19:44:35,236 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-13 19:44:35,305 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-13 19:44:35,306 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-13 19:44:35,746 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-13 19:44:36,346 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-13 19:44:36,414 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-13 19:44:36,415 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-13 19:44:36,416 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-13 19:44:36,417 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-13 19:44:36,420 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-13 19:44:36,420 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-af2c20c1-1f0c-11f1-b29e-a85e455e6409
+2026-03-13 19:44:36,520 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-13 19:44:36,639 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-13 19:44:36,653 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-13 19:44:36,737 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-13 19:44:36,820 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-13 19:44:36,837 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 19:44:36.837072
+2026-03-13 19:44:36,938 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 2491848
+2026-03-13 19:44:36,944 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49257
+2026-03-13 19:54:35,767 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 19:54:35.767052
+2026-03-13 20:04:35,777 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 20:04:35.777669
+2026-03-13 20:14:35,759 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 20:14:35.759335
+2026-03-13 20:24:35,796 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 20:24:35.796177
+2026-03-13 20:34:35,823 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 20:34:35.823251
+2026-03-13 20:44:35,778 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 20:44:35.778767
+2026-03-13 20:54:35,782 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 20:54:35.782849
+2026-03-13 21:04:35,767 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 21:04:35.767864
+2026-03-13 21:14:35,781 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 21:14:35.781723
+2026-03-13 21:24:35,771 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 21:24:35.771721
+2026-03-13 21:34:35,830 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 21:34:35.830694
+2026-03-13 21:44:35,775 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 21:44:35.775845
+2026-03-13 21:54:35,776 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 21:54:35.776243
+2026-03-13 22:03:29,250 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-13 22:03:29,261 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-13 22:04:35,768 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 22:04:35.768719
+2026-03-13 22:14:35,816 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 22:14:35.816793
+2026-03-13 22:24:35,862 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 22:24:35.862850
+2026-03-13 22:34:35,782 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 22:34:35.782704
+2026-03-13 22:44:35,905 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 22:44:35.905771
+2026-03-13 22:54:35,795 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 22:54:35.795785
+2026-03-13 23:04:35,807 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 23:04:35.807286
+2026-03-13 23:14:35,835 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 23:14:35.835016
+2026-03-13 23:24:35,770 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 23:24:35.770090
+2026-03-13 23:34:35,776 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 23:34:35.776844
+2026-03-13 23:44:35,785 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 23:44:35.785650
+2026-03-13 23:54:35,781 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-13 23:54:35.781840
+2026-03-14 00:04:35,766 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 00:04:35.766817
+2026-03-14 00:14:35,825 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 00:14:35.825158
+2026-03-14 00:24:35,786 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 00:24:35.786811
+2026-03-14 00:32:00,358 [ERROR] [SystrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2026-03-14 00:34:35,781 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 00:34:35.781919
+2026-03-14 00:35:58,134 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-14 00:35:58,135 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-14 00:35:58,137 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-14 00:35:58,141 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-14 00:35:58,142 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-14 00:35:58,156 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 2491848
+2026-03-14 13:07:59,832 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-14 13:07:59,833 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-14 13:07:59,834 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-14 13:07:59,959 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-14 13:07:59,961 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-14 13:08:00,029 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-14 13:08:00,029 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-14 13:08:00,458 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-14 13:08:01,046 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-14 13:08:01,081 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-14 13:08:01,083 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-14 13:08:01,083 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-14 13:08:01,084 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-14 13:08:01,084 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-14 13:08:01,085 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-72761663-1f9e-11f1-b5d8-a85e455e6409
+2026-03-14 13:08:01,208 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-14 13:08:01,303 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-14 13:08:01,314 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-14 13:08:01,375 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-14 13:08:01,473 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 13:08:01.473664
+2026-03-14 13:08:01,576 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 66588
+2026-03-14 13:08:01,582 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-14 13:08:01,584 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-14 13:18:00,500 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 13:18:00.500940
+2026-03-14 13:28:00,502 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 13:28:00.502031
+2026-03-14 13:38:00,475 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 13:38:00.475007
+2026-03-14 13:48:00,643 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 13:48:00.642965
+2026-03-14 13:58:00,479 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 13:58:00.479260
+2026-03-14 14:08:00,478 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 14:08:00.478284
+2026-03-14 14:18:00,497 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 14:18:00.497857
+2026-03-14 14:28:00,484 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 14:28:00.484005
+2026-03-14 14:38:00,492 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 14:38:00.492573
+2026-03-14 14:48:00,472 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 14:48:00.472560
+2026-03-14 14:58:00,533 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 14:58:00.533476
+2026-03-14 15:08:00,592 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 15:08:00.592232
+2026-03-14 15:18:00,488 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 15:18:00.488904
+2026-03-14 15:28:00,498 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 15:28:00.498435
+2026-03-14 15:38:00,475 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 15:38:00.475098
+2026-03-14 15:48:00,475 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 15:48:00.475299
+2026-03-14 15:58:00,481 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 15:58:00.481423
+2026-03-14 16:08:00,513 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 16:08:00.513556
+2026-03-14 16:18:00,520 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 16:18:00.520055
+2026-03-14 16:28:00,498 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 16:28:00.498870
+2026-03-14 16:38:00,488 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 16:38:00.488600
+2026-03-14 16:48:00,481 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 16:48:00.481640
+2026-03-14 16:58:00,502 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 16:58:00.502177
+2026-03-14 17:08:00,497 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 17:08:00.497830
+2026-03-14 17:18:00,489 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 17:18:00.489704
+2026-03-14 17:28:00,512 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 17:28:00.512791
+2026-03-14 17:38:00,490 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 17:38:00.489983
+2026-03-14 17:48:00,602 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 17:48:00.602426
+2026-03-14 17:58:00,511 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 17:58:00.511552
+2026-03-14 18:07:57,486 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 18:07:57.486143
+2026-03-14 18:17:57,485 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 18:17:57.485274
+2026-03-14 18:27:57,519 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 18:27:57.519240
+2026-03-14 18:37:57,503 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 18:37:57.503726
+2026-03-14 18:47:57,479 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 18:47:57.479075
+2026-03-14 18:57:57,536 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 18:57:57.536446
+2026-03-14 19:07:57,499 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 19:07:57.499101
+2026-03-14 19:17:57,513 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 19:17:57.513312
+2026-03-14 19:27:57,525 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 19:27:57.525234
+2026-03-14 19:37:57,567 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 19:37:57.567614
+2026-03-14 19:47:57,500 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 19:47:57.500937
+2026-03-14 19:57:57,562 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 19:57:57.562450
+2026-03-14 20:07:57,483 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 20:07:57.483133
+2026-03-14 20:17:57,500 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 20:17:57.500307
+2026-03-14 20:27:57,532 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 20:27:57.532452
+2026-03-14 20:37:57,512 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 20:37:57.512696
+2026-03-14 20:47:57,502 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 20:47:57.502943
+2026-03-14 20:57:57,504 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 20:57:57.504712
+2026-03-14 21:07:57,495 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 21:07:57.495258
+2026-03-14 21:17:57,467 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 21:17:57.467685
+2026-03-14 21:27:57,486 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 21:27:57.486806
+2026-03-14 21:37:57,489 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 21:37:57.489618
+2026-03-14 21:47:57,471 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 21:47:57.471425
+2026-03-14 21:57:57,516 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 21:57:57.516910
+2026-03-14 22:07:57,489 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 22:07:57.488972
+2026-03-14 22:17:57,547 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 22:17:57.547800
+2026-03-14 22:27:57,475 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 22:27:57.475680
+2026-03-14 22:37:57,490 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 22:37:57.490323
+2026-03-14 22:47:57,486 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 22:47:57.486620
+2026-03-14 22:57:57,483 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 22:57:57.483791
+2026-03-14 23:07:57,494 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 23:07:57.494768
+2026-03-14 23:17:57,494 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 23:17:57.494229
+2026-03-14 23:27:57,484 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 23:27:57.484139
+2026-03-14 23:37:57,521 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 23:37:57.521554
+2026-03-14 23:47:57,490 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 23:47:57.490860
+2026-03-14 23:57:57,490 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-14 23:57:57.490841
+2026-03-15 00:07:57,508 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 00:07:57.508858
+2026-03-15 00:11:41,292 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-15 00:11:41,293 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-15 00:11:41,293 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-15 00:11:41,296 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-15 00:11:41,297 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-15 00:11:41,311 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 66588
+2026-03-15 10:18:44,092 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-15 10:18:44,093 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-15 10:18:44,094 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-15 10:18:44,234 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-15 10:18:44,237 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-15 10:18:45,138 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-15 10:18:45,138 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-15 10:18:45,601 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-15 10:18:46,346 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 2 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-15 10:18:46,638 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-15 10:18:46,640 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-15 10:18:46,641 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-15 10:18:46,643 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-f85b01f3-204f-11f1-a178-a85e455e6409
+2026-03-15 10:18:46,644 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-15 10:18:46,644 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-15 10:18:46,731 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-15 10:18:46,822 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-15 10:18:46,835 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-15 10:18:46,926 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-15 10:18:47,032 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 10:18:47.031933
+2026-03-15 10:18:47,127 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 67150
+2026-03-15 10:18:47,169 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-15 10:18:47,473 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-15 10:18:47,474 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-15 10:18:47,474 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-15 10:18:47,474 [ERROR] [MainThread] [root/main.py:75]: Another instance of the YASB is already running.
+2026-03-15 10:18:47,860 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-15 10:28:45,661 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 10:28:45.661513
+2026-03-15 10:38:45,668 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 10:38:45.668921
+2026-03-15 10:48:45,653 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 10:48:45.653581
+2026-03-15 10:58:45,652 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 10:58:45.652735
+2026-03-15 11:08:45,672 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 11:08:45.672345
+2026-03-15 11:18:45,648 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 11:18:45.647964
+2026-03-15 11:28:45,666 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 11:28:45.666860
+2026-03-15 11:38:45,673 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 11:38:45.673251
+2026-03-15 11:48:45,676 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 11:48:45.676230
+2026-03-15 11:58:45,677 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 11:58:45.677411
+2026-03-15 12:08:45,673 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 12:08:45.673280
+2026-03-15 12:18:45,688 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 12:18:45.688941
+2026-03-15 12:28:45,672 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 12:28:45.672396
+2026-03-15 12:38:45,648 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 12:38:45.648960
+2026-03-15 12:48:45,655 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 12:48:45.655592
+2026-03-15 12:58:45,652 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 12:58:45.652863
+2026-03-15 13:08:45,653 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 13:08:45.653348
+2026-03-15 13:18:45,650 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 13:18:45.649992
+2026-03-15 13:28:45,661 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 13:28:45.661557
+2026-03-15 13:38:45,664 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 13:38:45.664219
+2026-03-15 13:39:30,526 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 67150
+2026-03-15 13:39:30,532 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-15 13:39:30,532 [DEBUG] [MainThread] [systray_widget/systray.py:204]: Systray icons refreshed
+2026-03-15 13:39:38,058 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-15 13:39:48,475 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\deyan\.config\yasb\styles.css
+2026-03-15 13:40:52,101 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-15 13:40:52,132 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-15 13:40:52,247 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-15 13:40:52,247 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-15 13:40:52,256 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-15 13:40:52,356 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-15 13:40:52,357 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-15 13:40:52,357 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-15 13:40:52,359 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-15 13:40:52,360 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-15 13:40:52,374 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 67150
+2026-03-15 13:40:52,374 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 67150
+2026-03-15 13:40:53,074 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-15 13:40:53,074 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-15 13:40:53,074 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-15 13:40:53,151 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-15 13:40:53,152 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-15 13:40:53,193 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-15 13:40:53,193 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-15 13:40:53,456 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-15 13:40:54,001 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 0 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-15 13:40:54,156 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-15 13:40:54,161 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-15 13:40:54,161 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-15 13:40:54,162 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-15 13:40:54,162 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-15 13:40:54,208 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-34ebc26c-206c-11f1-85b0-a85e455e6409
+2026-03-15 13:40:54,245 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-15 13:40:54,336 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-15 13:40:54,338 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-15 13:40:54,395 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-15 13:40:54,447 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 13:40:54.446965
+2026-03-15 13:40:54,596 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 2032312
+2026-03-15 13:40:54,603 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-15 13:40:54,605 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-15 13:40:57,974 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-15 13:40:58,004 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-15 13:40:58,113 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-15 13:40:58,113 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-15 13:40:58,116 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-15 13:40:58,204 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-15 13:40:58,204 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-15 13:40:58,205 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-15 13:40:58,206 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-15 13:40:58,206 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-15 13:40:58,207 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 2032312
+2026-03-15 13:40:58,208 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 2032312
+2026-03-15 13:40:58,609 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-15 13:40:58,610 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-15 13:40:58,610 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-15 13:40:58,634 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-15 13:40:58,635 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-15 13:40:58,673 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-15 13:40:58,673 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-15 13:40:58,889 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-15 13:40:59,365 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 0 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-15 13:40:59,473 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-15 13:40:59,477 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-15 13:40:59,477 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-15 13:40:59,478 [INFO] [Dummy-7] [root/event_listener.py:51]: Created named pipe yasb-3816d249-206c-11f1-b233-a85e455e6409
+2026-03-15 13:40:59,478 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-15 13:40:59,479 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-15 13:40:59,676 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-15 13:40:59,714 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-15 13:40:59,716 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-15 13:40:59,747 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-15 13:40:59,782 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 13:40:59.782683
+2026-03-15 13:40:59,950 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 9831576
+2026-03-15 13:40:59,956 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-15 13:40:59,958 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-15 13:41:02,277 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\deyan\.config\yasb\config.yaml
+2026-03-15 13:41:02,307 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-15 13:41:02,412 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-15 13:41:02,412 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-15 13:41:02,417 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-15 13:41:02,520 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-15 13:41:02,520 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-15 13:41:02,521 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-15 13:41:02,523 [DEBUG] [MainThread] [systray_widget/systray.py:470]: Saving state to disk
+2026-03-15 13:41:02,524 [DEBUG] [MainThread] [systray_widget/systray.py:474]: Saving state to C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-15 13:41:02,524 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 9831576
+2026-03-15 13:41:02,525 [DEBUG] [MainThread] [systray_widget/utils.py:97]: Destroying window 9831576
+2026-03-15 13:41:02,913 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-15 13:41:02,913 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-15 13:41:02,913 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-15 13:41:02,935 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-15 13:41:02,936 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-15 13:41:02,975 [WARNING] [MainThread] [root/bar_manager.py:135]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-15 13:41:02,976 [WARNING] [MainThread] [root/bar_manager.py:156]: Screen 'LP129WT342166' from config not found among connected screens.
+2026-03-15 13:41:03,194 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-15 13:41:03,676 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 0 pinned apps from C:\Users\deyan\AppData\Local\YASB\taskbar_pinned.json
+2026-03-15 13:41:03,789 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-15 13:41:03,791 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-15 13:41:03,792 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-15 13:41:03,793 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-03-15 13:41:03,793 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-15 13:41:03,794 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-3aa940af-206c-11f1-813e-a85e455e6409
+2026-03-15 13:41:04,004 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-15 13:41:04,046 [DEBUG] [MainThread] [systray_widget/systray.py:492]: Loading state from C:\Users\deyan\AppData\Local\YASB\systray_state_ACERTECHNOLOGIESED273UR.json
+2026-03-15 13:41:04,047 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-03-15 13:41:04,079 [DEBUG] [MainThread] [systray_widget/systray.py:243]: Systray thread started
+2026-03-15 13:41:04,115 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 13:41:04.115122
+2026-03-15 13:41:04,282 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:168]: Adding TaskbandHWND prop to hwnd 394862
+2026-03-15 13:41:04,287 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:246]: Finding real tray hwnd
+2026-03-15 13:41:04,290 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:160]: Sending TaskbarCreated message: 49343
+2026-03-15 13:42:45,117 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:350]: Scanning for WiFi networks...
+2026-03-15 13:51:03,250 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 13:51:03.250340
+2026-03-15 14:01:03,256 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 14:01:03.256051
+2026-03-15 14:11:03,259 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 14:11:03.259309
+2026-03-15 14:21:03,234 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 14:21:03.234671
+2026-03-15 14:31:03,269 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 14:31:03.269655
+2026-03-15 14:41:03,234 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 14:41:03.234115
+2026-03-15 14:47:09,279 [ERROR] [SystrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2026-03-15 14:51:03,276 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 14:51:03.276503
+2026-03-15 15:01:03,242 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-03-15 15:01:03.242559

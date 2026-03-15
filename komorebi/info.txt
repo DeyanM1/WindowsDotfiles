@@ -5,7 +5,7 @@ winget install LGUG2Z.masir LGUG2Z.komorebi LGUG2Z.masir LGUG2Z.whkd
 - add this to powershell profile:
 $Env:KOMOREBI_CONFIG_HOME = 'C:\Users\deyan\.config\komorebi'
 
--- Start:
+-- Start: 
 komorebic start --whkd --masir
 
 -- stop
