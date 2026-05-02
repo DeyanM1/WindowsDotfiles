@@ -40,7 +40,7 @@ bars:
         #- "komorebi_control"
         - "komorebi_workspaces"
       center:
-        - "taskbar"
+        - "active_window"
       right:
         - "weather"
         - "volume"
@@ -247,7 +247,7 @@ widgets:
     type: "yasb.memory.MemoryWidget"
     options:
       label: "<span>\uefc5</span> {virtual_mem_used}/{virtual_mem_total}"
-      update_interval: 5000
+      update_interval: 2000
       callbacks:
         on_left: "do_nothing"
         on_middle: "do_nothing"
@@ -290,20 +290,17 @@ widgets:
   active_window:
     type: "yasb.active_window.ActiveWindowWidget"
     options:
-      label: "{win[title]}"
-      label_alt: "{win[process][name]} | {win[class_name]}"
-      label_icon: false
+      #label: "{win[title]}"
+      label: "  {win[app_name]}"
+      label_alt: "[{win[app_name]}] class='{win[class_name]}' exe='{win[process][name]}' pid={win[process][pid]}"
+      label_icon: true
       label_icon_size: 16
       max_length: 30
       max_length_ellipsis: "..."
       monitor_exclusive: false
-      animation:
-        enabled: false
-        duration: 200
-        type: "fadeInOut"
       rewrite:
-        - pattern: "Visual Studio Code"
-          replacement: "VSC"
+        - pattern: "Brave Browser"
+          replacement: "Brave"
       ignore_window:
         classes: []
         processes: []
@@ -312,6 +309,7 @@ widgets:
           - Magnifier
           - Notification Center
           - Raycast
+          - Command Palette
           - Windows Shell Experience Host
           - Shut Down Windows
           - Delete File

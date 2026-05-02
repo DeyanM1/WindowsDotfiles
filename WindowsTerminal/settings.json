@@ -4,7 +4,7 @@
     "actions": [],
     "copyFormatting": "none",
     "copyOnSelect": false,
-    "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
     "keybindings": 
     [
         {
@@ -39,7 +39,7 @@
         },
         {
             "icon": null,
-            "profile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+            "profile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
             "type": "profile"
         },
         {
@@ -74,7 +74,7 @@
                 "face": "CaskaydiaCove Nerd Font",
                 "size": 14
             },
-            "opacity": 80,
+            "opacity": 95,
             "useAcrylic": true
         },
         "list": 
@@ -101,7 +101,7 @@
                     }
                 },
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-                "hidden": true,
+                "hidden": false,
                 "name": "Windows PowerShell",
                 "opacity": 10,
                 "useAcrylic": true
