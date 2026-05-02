@@ -33,12 +33,10 @@ bars:
       left:
         - "systray"
         - "battery"
-        - "wifi"
-        - "brightness"
+        #- "wifi"
+        #- "brightness"
         - "cpu"
         - "memory"
-        #- "komorebi_control"
-        - "komorebi_workspaces"
       center:
         - "active_window"
       right:

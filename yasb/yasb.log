@@ -5885,3 +5885,87 @@ expected ',' or '}', but got '['
 2026-05-02 19:12:11,474 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
 2026-05-02 19:12:11,523 [WARNING] [Dummy-6] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
 2026-05-02 19:12:11,553 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-05-02 19:12:11.553751
+2026-05-02 19:13:35,848 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-02 19:13:35,849 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-02 19:13:35,849 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-05-02 19:13:35,961 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-02 19:13:35,967 [INFO] [MainThread] [root/bar_manager.py:92]: Successfully loaded updated config and re-initialised all bars.
+2026-05-02 19:13:36,022 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-02 19:13:36,027 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping WindowsNotificationEventListener...
+2026-05-02 19:13:36,029 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping KomorebiEventListener...
+2026-05-02 19:13:36,297 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-02 19:13:36,297 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-02 19:13:36,298 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-02 19:13:36,336 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-02 19:13:36,336 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-02 19:13:36,354 [WARNING] [MainThread] [root/bar_manager.py:150]: Screen 'ED273UR' from config not found among connected screens.
+2026-05-02 19:13:36,377 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] SystrayWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:36,378 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] SystrayWidgetConfig: 'container_shadow' - Use CSS box-shadow instead.
+2026-05-02 19:13:36,385 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BatteryConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,411 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] WifiConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,425 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BrightnessConfig: 'hide_unsupported' - No longer supported and can be removed from the config.
+2026-05-02 19:13:36,425 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BrightnessConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,431 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] CpuConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:36,431 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] CpuConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,438 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] MemoryConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:36,438 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] MemoryConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,441 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ActiveWindowConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:36,442 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ActiveWindowConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,460 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] WeatherWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:36,461 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] WeatherWidgetConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,485 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] VolumeConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:36,485 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] VolumeConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,493 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-02 19:13:36,638 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] LanguageConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:36,638 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] LanguageConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,645 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ClockConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:36,645 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ClockConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,684 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] NotificationsConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:36,684 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] NotificationsConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:36,965 [WARNING] [MainThread] [root/bar_manager.py:171]: Screen 'ED273UR' from config not found among connected screens.
+2026-05-02 19:13:36,966 [INFO] [MainThread] [root/bar_manager.py:102]: Starting WindowsNotificationEventListener...
+2026-05-02 19:13:36,966 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-02 19:13:36,967 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-05-02 19:13:36,967 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-02 19:13:36,986 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-02 19:13:37,124 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-05-02 19:13:37.124161
+2026-05-02 19:13:46,129 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-02 19:13:46,129 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-02 19:13:46,130 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-05-02 19:13:46,244 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-02 19:13:46,249 [INFO] [MainThread] [root/bar_manager.py:92]: Successfully loaded updated config and re-initialised all bars.
+2026-05-02 19:13:46,271 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping WindowsNotificationEventListener...
+2026-05-02 19:13:46,273 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-02 19:13:46,582 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-02 19:13:46,582 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-02 19:13:46,583 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-02 19:13:46,622 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-02 19:13:46,622 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-02 19:13:46,640 [WARNING] [MainThread] [root/bar_manager.py:150]: Screen 'ED273UR' from config not found among connected screens.
+2026-05-02 19:13:46,663 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] SystrayWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:46,664 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] SystrayWidgetConfig: 'container_shadow' - Use CSS box-shadow instead.
+2026-05-02 19:13:46,672 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BatteryConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:46,709 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] CpuConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:46,709 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] CpuConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:46,715 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] MemoryConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:46,715 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] MemoryConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:46,719 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ActiveWindowConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:46,719 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ActiveWindowConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:46,737 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] WeatherWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:46,737 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] WeatherWidgetConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:46,758 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] VolumeConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:46,758 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] VolumeConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:46,767 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-02 19:13:46,886 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] LanguageConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:46,886 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] LanguageConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:46,892 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ClockConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:46,893 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ClockConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:46,919 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] NotificationsConfig: 'container_padding' - Use CSS padding instead.
+2026-05-02 19:13:46,919 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] NotificationsConfig: 'label_shadow' - Use CSS text-shadow instead.
+2026-05-02 19:13:47,227 [WARNING] [MainThread] [root/bar_manager.py:171]: Screen 'ED273UR' from config not found among connected screens.
+2026-05-02 19:13:47,227 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-02 19:13:47,227 [INFO] [MainThread] [root/bar_manager.py:102]: Starting WindowsNotificationEventListener...
+2026-05-02 19:13:47,228 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\deyan\.config\yasb
+2026-05-02 19:13:47,228 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-02 19:13:47,246 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-02 19:13:47,412 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-05-02 19:13:47.412007
